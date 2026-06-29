@@ -2,7 +2,7 @@
 set -eu
 
 print_help() {
-	echo "Utility command to show/edit AndroidIDE Environment Variables"
+	echo "Utility command to show/edit MobileIDE Environment Variables"
 	echo "Usage: ideenv [options]"
 	echo ""
 	echo "	-s 	Show the environment variables"
